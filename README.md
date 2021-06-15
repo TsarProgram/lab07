@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/snoreoh/lab7.svg?branch=main)](https://travis-ci.com/snoreoh/lab7)
+[![Build Status](https://travis-ci.com/TsarProgram/lab07.svg?branch=main)](https://travis-ci.com/TsarProgram/lab07)
 
 # Homework. Lab #7
 
